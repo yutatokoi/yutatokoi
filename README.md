@@ -1,6 +1,6 @@
 #### 👋
 
-- Creating a [Markdown editor](https://github.com/izyumidev/LAME)
+- Creating a [markdown editor "LAME"](https://github.com/izyumidev/LAME)
 - Solving [Advent of Code](https://github.com/yutatokoi/aoc) and [LeetCode](https://github.com/yutatokoi/leetcode)
 - Certified:
   - [CompTIA ITF+](https://www.credly.com/badges/cec574c8-b5c3-4a93-a45f-cef61e554fff/public_url)
