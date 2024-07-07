@@ -12,6 +12,7 @@ There are many online resources out there about programming or becoming a better
 ## General
 
 - [Fireship: How to Google](https://youtu.be/cEBkvm0-rg0?si=tTlxx1JL9OAI8SVo)
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 ## Git
 - [General book on Git](https://git-scm.com/book/en/v2/)
@@ -46,3 +47,4 @@ There are many online resources out there about programming or becoming a better
 - [Lean Lang](https://lean-lang.org/)
 - [Lean Community](https://leanprover-community.github.io/)
 - [Programming Languages and Verficiation reading group @UniMelb](https://github.com/zilinc/PLV-RG/wiki/Previous-Papers)
+
