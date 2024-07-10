@@ -5,6 +5,7 @@ publishDate: "2024-07-04"
 tags: ["books", "featured"]
 ---
 
+- [教養としてのコンピューターサイエンス講義](https://bookplus.nikkei.com/atcl/catalog/22/04/24/00110/) - ブライアン・カーニハン 著、酒匂寛 訳
 - [数学の二つの心](https://nippyo.co.jp/shop/book/7506.html) - 長岡亮介	著
 - [ベーシックインカムの祈り](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-744445-2) - 井上真偽 著
 - [恋と禁忌の述語論理](https://bookclub.kodansha.co.jp/product?item=0000318280) - 井上真偽 著
