@@ -44,6 +44,7 @@ There are many online resources out there about programming or becoming a better
 
 ## Formal Methods, Verification
 
+- [(Accompanying webiste) Formal Methods for Software Engineering](https://sefm-book.github.io/)
 - [Lean Lang](https://lean-lang.org/)
 - [Lean Community](https://leanprover-community.github.io/)
 - [Programming Languages and Verficiation reading group @UniMelb](https://github.com/zilinc/PLV-RG/wiki/Previous-Papers)
