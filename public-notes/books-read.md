@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-07-04"
+publishDate: "2024-07-13"
 tags: ["books", "featured"]
 ---
 
+- [現代語訳 方丈記](https://www.iwanami.co.jp/book/b256232.html) - 佐藤春夫 著
 - [数学者の思案](https://www.iwanami.co.jp/book/b646698.html) - 河東泰之 著
 - [教養としてのコンピューターサイエンス講義](https://bookplus.nikkei.com/atcl/catalog/22/04/24/00110/) - ブライアン・カーニハン 著、酒匂寛 訳
 - [数学の二つの心](https://nippyo.co.jp/shop/book/7506.html) - 長岡亮介	著
