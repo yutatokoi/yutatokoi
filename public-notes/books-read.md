@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-07-14"
+publishDate: "2024-07-19"
 tags: ["books", "featured"]
 ---
 
+- [黄色い家](https://www.chuko.co.jp/special/kiiroiie/) - 川上未映子 著
 - [すべて真夜中の恋人たち](https://bookclub.kodansha.co.jp/product?item=0000206651) - 川上未映子 著
 - [記号論理入門 新装版](https://www.nippyo.co.jp/shop/book/2703.html) - 前原昭二 著
 - [現代語訳 方丈記](https://www.iwanami.co.jp/book/b256232.html) - 佐藤春夫 著
