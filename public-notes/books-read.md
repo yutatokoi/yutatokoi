@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-07-19"
+publishDate: "2024-08-26"
 tags: ["books", "featured"]
 ---
 
+- [Programming, Problem Solving, and Abstraction with C](https://people.eng.unimelb.edu.au/ammoffat/ppsaa/) - Alistair Moffat
 - [黄色い家](https://www.chuko.co.jp/special/kiiroiie/) - 川上未映子 著
 - [すべて真夜中の恋人たち](https://bookclub.kodansha.co.jp/product?item=0000206651) - 川上未映子 著
 - [記号論理入門 新装版](https://www.nippyo.co.jp/shop/book/2703.html) - 前原昭二 著
