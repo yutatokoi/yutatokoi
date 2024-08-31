@@ -1,10 +1,11 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-08-26"
+publishDate: "2024-08-31"
 tags: ["books"]
 ---
 
+- [エンジニアの知的生産術](https://gihyo.jp/book/2018/978-4-7741-9876-7) - 西尾泰和 著
 - [ここはすべての夜明けまえ](https://www.hayakawa-online.co.jp/shopdetail/000000015764/) - 間宮改衣 著
 - [EXERCISED: Why Something We Never Evolved to Do is Healthy and Rewarding](https://scholar.harvard.edu/exercised/home) - Daniel E. Lieberman
 - [いかにして問題をとくか](https://www.maruzen-publishing.co.jp/contents/howtosolveit/index.html) - ジョージ・ポリア 著、柿内賢信 訳
