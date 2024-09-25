@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-08-26"
+publishDate: "2024-09-26"
 tags: ["books", "featured"]
 ---
 
+- [乳と卵](https://books.bunshun.jp/ud/book/num/9784167791018) - 川上未映子 著
 - [Programming, Problem Solving, and Abstraction with C](https://people.eng.unimelb.edu.au/ammoffat/ppsaa/) - Alistair Moffat
 - [黄色い家](https://www.chuko.co.jp/special/kiiroiie/) - 川上未映子 著
 - [すべて真夜中の恋人たち](https://bookclub.kodansha.co.jp/product?item=0000206651) - 川上未映子 著
