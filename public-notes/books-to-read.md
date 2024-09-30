@@ -1,10 +1,11 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-09-26"
+publishDate: "2024-09-30"
 tags: ["books"]
 ---
 
+- [To Kill a Mockingbird] - Harper Lee
 - [Strange Code](https://nostarch.com/strange-code) - Ronald T. Kneusel
 - [エンジニアの知的生産術](https://gihyo.jp/book/2018/978-4-7741-9876-7) - 西尾泰和 著
 - [ここはすべての夜明けまえ](https://www.hayakawa-online.co.jp/shopdetail/000000015764/) - 間宮改衣 著
