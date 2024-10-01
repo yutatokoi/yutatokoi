@@ -5,6 +5,7 @@ publishDate: "2024-10-01"
 tags: ["books", "featured"]
 ---
 
+- Walden - Henry David Thoreau
 - [なにものにもこだわらない](https://www.php.co.jp/books/detail.php?isbn=978-4-569-90003-2) - 森博嗣 著
 - [乳と卵](https://books.bunshun.jp/ud/book/num/9784167791018) - 川上未映子 著
 - [Programming, Problem Solving, and Abstraction with C](https://people.eng.unimelb.edu.au/ammoffat/ppsaa/) - Alistair Moffat
