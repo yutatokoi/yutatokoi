@@ -1,3 +1,4 @@
+- [1-D Cellular Automaton in C](https://github.com/yutatokoi/1-D-Cellular-Automaton)
 - [TSV Parser in C](https://github.com/yutatokoi/tsv-parser-c)
 - [ttt.py](https://github.com/yutatokoi/ttt.py)
   - Tic Tac Toe bot written in Python, that is sure to beat your TA
